@@ -20,6 +20,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
-### link to the published site: [my-first-websit]()
+### link to the published site: [My Portfolio](https://abdiii4000.github.io/portfolio/)
 
 ### License: [MIT](https://raw.githubusercontent.com/abdiii4000/my-first-website/master/LICENSE)
