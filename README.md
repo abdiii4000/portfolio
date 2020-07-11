@@ -1,10 +1,13 @@
 # My portfolio
-# Date July 10, 2020
-#### By Author: [MOHAMED ABDIRAHMAN](ghttps://abdiii4000.github.io/portfolio/)
+# Date: July 10, 2020
+#### By Author: [MOHAMED ABDIRAHMAN](https://abdiii4000.github.io/portfolio/)
 
 ### Description 
 
 My personal portfolio project is a project dedicated to showcase my expertise, experiences, hobbies and more 
+
+### setup and installation 
+No setup and installation required
 
 ## Technologies Used
  * HTML
