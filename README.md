@@ -22,4 +22,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### link to the published site: [My Portfolio](https://abdiii4000.github.io/portfolio/)
 
-### License: [MIT](https://raw.githubusercontent.com/abdiii4000/my-first-website/master/LICENSE)
+### License:[MIT](https://raw.githubusercontent.com/abdiii4000/my-first-website/master/LICENSE)
