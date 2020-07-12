@@ -1,17 +1,38 @@
-h1  {
+body{
+   background-color: lightblue;
+ }
+ 
+ h1  {
   color: blue;
-  text-align: center
+  text-align: center;
+  background-color:rgb(177, 216, 177)
+  
    }
-
-h2  {
-   color: green;
+ 
+ h2  {
+   color: rgb(43, 58, 43);
    font-style: italic;
    text-align: center;
    }
-
-p   {
+ 
+ p   {
    font-family: sans-serif;
    }
-ul  {
+ 
+ ul  {
    line-height: 40px;
-   }  
+ }
+ 
+ .column {
+   width: 300px;
+   float: left;
+ }
+ 
+ img {
+   float: left;
+ }
+ 
+ .box {
+  border-top: 6px solid orange;
+   
+ }
