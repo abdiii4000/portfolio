@@ -26,13 +26,19 @@ body{
  .column {
    width: 300px;
    float: left;
+   
  }
  
  img {
    float: left;
+   align-items: center;
  }
  
  .box {
-  border-top: 6px solid orange;
+   border-top: solid;
    
  }
+
+ .important {
+color: red;
+}
